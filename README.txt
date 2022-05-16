@@ -1,0 +1,1 @@
+The project to predict the future purchase item based on user segment, the Process.ipynb is to clean data, turn it into RFM and clustering, AssociationFPGrowth.java is the algorithm to run the FPGrowth Algorithm to find rule and Evaluate.ipynb is to calculate the accuracy of the association rule with clustering and none clustering
